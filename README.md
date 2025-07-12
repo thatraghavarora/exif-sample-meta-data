@@ -35,8 +35,8 @@ Here are a few tools to extract and view EXIF metadata from the images:
 
 Or try online EXIF viewers like:
 
-* [https://exif.regex.info/exif.cgi](https://exif.regex.info/exif.cgi)
-* [https://metapicz.com/](https://metapicz.com/)
+* [https://jimpl.com/](https://jimpl.com/)
+* [https://ezgif.com/view-metadata](https://ezgif.com/view-metadata)
 
 ---
 
